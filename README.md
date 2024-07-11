@@ -1,5 +1,5 @@
 # udemy-clone-wp
-This repository is a clone of the "Udemy" website using WordPress. Due to access limitations and required updates from the developers who own the plugins and themes used, further maintenance and updates are currently on hold. Here are a few remaining images from the project that were saved on my local machine. ^^;
+> This repository is a clone of the "Udemy" website using WordPress. Due to access limitations and required updates from the developers who own the plugins and themes used, further maintenance and updates are currently on hold. Here are a few remaining images from the project that were saved on my local machine. ^^;
 
 Here is a link to the `PDF` for DOCS & OVERVIEW : [Udemy-Clone](https://github.com/Maxwell999b/udemy-clone-wp/blob/main/pdf/udemy.pdf).
 
